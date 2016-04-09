@@ -1,0 +1,5 @@
+http://digg.com
+http://www.buzzfeed.com
+http://www.bustle.com
+https://en.wikipedia.org
+https://news.ycombinator.com
